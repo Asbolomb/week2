@@ -2,3 +2,23 @@ body {
     background-color: #DC0714;
     background-size: cover;
   }
+  p{
+    padding:10px;
+  font-family: "Roboto Condensed", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.2s linear 0.1s;
+  }
+  .navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    
+    
+  }
