@@ -19,7 +19,8 @@ body {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    padding-left: 400px;  
+    padding-left: 400px;
+    padding-right: 10vh;  
   }
   .fa-solid{
     color: white;
@@ -29,5 +30,9 @@ body {
     padding-right: 500px;
     padding-top: 40px
   }
- 
-  
+  .headlines{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10vh;
+  padding-right: 10vh; }
