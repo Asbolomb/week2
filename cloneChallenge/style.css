@@ -3,7 +3,7 @@ body {
     background-size: cover;
   }
   p{
-    padding:10px;
+    padding:20px;
   font-family: "Roboto Condensed", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
   font-size: 14px;
     font-weight: 700;
@@ -21,5 +21,13 @@ body {
     align-items: center;
     padding-left: 400px;  
   }
-  
+  .fa-solid{
+    color: white;
+  }
+  .logo{
+    align-self: flex-start;
+    padding-right: 500px;
+    padding-top: 40px
+  }
+ 
   
